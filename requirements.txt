@@ -1,0 +1,9 @@
+# Minimal top-level dependencies to run Automate_NFL.py
+# Pinned to versions present in your current environment for reproducibility
+
+numpy==1.24.4
+pandas==1.5.3
+openpyxl==3.1.5
+nfl-data-py==0.3.3
+fastparquet==2024.2.0
+fsspec==2025.3.0
