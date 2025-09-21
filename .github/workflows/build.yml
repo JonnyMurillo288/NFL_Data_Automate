@@ -26,5 +26,5 @@ jobs:
     - name: Upload artifact
       uses: actions/upload-artifact@v4
       with:
-        name: my-executable
-        path: dist/myscript.exe
+        name: Automate_NFL
+        path: dist/Automate_NFL.exe
