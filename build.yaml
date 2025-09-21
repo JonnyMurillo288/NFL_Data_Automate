@@ -21,7 +21,7 @@ jobs:
       run: pip install -r requirements.txt pyinstaller
 
     - name: Build exe
-      run: pyinstaller --onefile --add-data "myfile.xlsx;." myscript.py
+      run: pyinstaller --onefile --add-data "NFL_2025.xlsx;." Automate_NFL.py
 
     - name: Upload artifact
       uses: actions/upload-artifact@v4
