@@ -7,4 +7,4 @@ openpyxl==3.1.5
 nfl-data-py==0.3.3
 fastparquet==2024.2.0
 fsspec==2025.3.0
-pyarrow==19.0.1
+pyarrow
